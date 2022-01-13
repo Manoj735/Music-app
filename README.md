@@ -1,6 +1,6 @@
 # MusicApp
 
->  A Music Player developed using JavaScript, CSS, and HTML. Users can click the Forward play, Backward play, Playlist loop and Shuffle music buttons to change the songs.
+>  A music player developed by using javascript , html, css, tilt.js. we can change, pause, suffle the songs. we have also include playlist so you can choose easily.
 
 ## Live Demo
 
