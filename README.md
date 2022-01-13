@@ -4,11 +4,11 @@
 
 ## Live Demo
 
-[Live Demo Link]() :point_left:
+[Live Demo Link](https://manoj735.github.io/Music-app/) :point_left:
 
 Landing Page:
-![screenshot]()
+![screenshot](1.png)
 
 Music List:
-![screenshot]()
+![screenshot](2.png)
 
