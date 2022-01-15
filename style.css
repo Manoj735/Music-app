@@ -11,13 +11,14 @@
   margin: 0;
 }
 :root {
-  --pink: #4e14ac;
-  --violet: #9f6ea3;
+  --pink: #f18bd7;
+  --violet: #6e97a3;
   --lightblack: #080808;
-  --white: #ffffff;
+  --white: #dce4dc;
   --darkwhite: #cecaca;
   --pinkshadow: #ffcbdd;
-  --lightbshadow: rgba(0, 0, 0, 0.15);
+  --lightbshadow: rgba(178, 13, 243, 0.15);
+  --black: #0e0d0d;
 }
 body {
   display: flex;
@@ -39,8 +40,7 @@ body {
   box-shadow: 20px 20px 50px rgba(0, 0, 0, 0.5);
   background: rgba(14, 189, 29, 0.1);
   border-top: 1px solid rgba(16, 187, 199, 0.5);
-  border-left: 1px solid rgba(124, 214, 22, 0.5);
-  border-radius: 20px;
+  border-left: 1px solid rgba(146, 11, 51, 0.5);
   backdrop-filter: blur(3px);
 }
 .wrapper i {
@@ -152,7 +152,7 @@ body {
 .controls i {
   font-size: 28px;
   user-select: none;
-  background: linear-gradient(var(--pink) 0%, var(--violet) 100%);
+  background: linear-gradient(var(--black) 0%, var(--violet) 100%);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
